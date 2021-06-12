@@ -1,0 +1,27 @@
+
+
+body {
+	background-color:black;
+	font-family: arial;
+	color:white;
+	box-sizing: border-box;
+}
+h1{
+	color:grey;
+	font-family: verdana;
+	text-align:center;
+}
+.maindiv{
+	background-color: white;
+	color:black;
+	width:475px;
+	height:auto;
+	padding:20px;
+	border-radius: 25px;
+}
+table{
+	padding-left:35px;
+	text-align:left;
+}
+
+
